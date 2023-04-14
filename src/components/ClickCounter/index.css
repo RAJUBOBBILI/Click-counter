@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+.count {
+  color: #c20a72;
+  font-size: 40px;
+}
